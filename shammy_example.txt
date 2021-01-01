@@ -1,0 +1,27 @@
+box shammyvid1 shammypass _F1 shamera caster
+box shammyvid2 shammypass _F2 shamerb caster
+box shammyvid3 shammypass _F3 shamerc caster
+box shammyvid4 shammypass _F4 shamerd caster
+box shammyvid5 shammypass _F5 shamere caster
+box shammyvid6 shammypass _F6 shamerf caster
+box shammyvid7 shammypass _F7 shamerg caster
+box shammyvid8 shammypass _F8 shamerh caster
+box shammyvid9 shammypass _F9 shameri caster
+box shammyvid10 shammypass _F10 shamerj caster
+box shammyvid11 shammypass _nope shamerk caster
+box shammyvid12 shammypass _nope shamerl caster
+box shammyvid13 shammypass _nope shamerm caster
+box shammyvid14 shammypass _nope shamern caster
+box shammyvid15 shammypass _nope shamero caster
+box shammyvid16 shammypass _nope shamerp caster
+box shammyvid17 shammypass _nope shamerq caster
+box shammyvid18 shammypass _nope shamerr caster
+box shammyvid19 shammypass _nope shamers caster
+box shammyvid20 shammypass _nope shamert caster
+box shammyvid21 shammypass _nope shameru caster
+box shammyvid22 shammypass _nope shamerv caster
+box shammyvid23 shammypass _nope shamerw caster
+box shammyvid24 shammypass _nope shamerx caster
+box shammyvid25 shammypass _nope shamery caster
+extrawait1 300
+extrawait2 1000

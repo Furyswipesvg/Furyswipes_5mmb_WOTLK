@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: AutoGear
+## Notes: Automatically chooses loot and equips gear
+
+AutoGear.lua
+## SavedVariables: AutoGearDB

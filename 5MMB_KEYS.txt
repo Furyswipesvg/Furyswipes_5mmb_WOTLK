@@ -1,0 +1,100 @@
+This document lists the normal convention I use for multiboxing keys.
+There are execptions throughout for various expansions.
+This does not cover vanilla.
+Some of these conventions are up to YOU to set up.
+
+1 -- setup/melee follow. This key is for buffs (out of combat) or for making
+melee follow the raid leader.
+  (classic/wotlk/tbc) BUFF ROTATION. See the side bar on the right? When out
+of combat, the 1 key will click the top left sidebar button, then the next
+button down, then the next button down. 6 button rotation. PARTY BUFFS GO
+HERE. The first one should be self buff. This is set up automatically for you,
+but you can mess with it.
+
+alt-1 -- this key makes everyone focus the main target and STOP DPS/Interrupt
+Casting. You should also make it return your pets (/petpassive [mod:alt]
+/petfollow [mod:alt]
+
+shift-1 -- this key is special--put a spell here that you want to cast one at
+a time  throughout your raid, such as death grip or whatever. Or a warrior or
+druid tank will put a pull spell here. Resets on alt-4 (follow)
+
+2 -- single target dps--up to you how single you want this. Recommend
+absolutely single target in classic, otherwise you pop sheep.
+  SPECIAL wotlk/tbc! Simultaneously presses Shift-5/Shift-6 (aux1/aux2). Put
+spells in there!
+
+alt-2 -- warriors/druids charge. tanks taunt.
+
+ctrl-2 -- reactive abilities for all classes should be here, example, revenge
+on retail prot warriors.
+
+shift-2 -- Classes with crowd control will CC on shift-2. Classes without
+crowd control will clear target so they don't accidentally hit  the sheep.
+
+3 -- dps multiple targets, possibly at range. No aoe spells.
+  SPECIAL wotlk/tbc! Simultaneously presses Shift-7 (aux3). Put a spell in
+there that goes with multi/aoe!
+
+shift-3 -- interrupt spellcasting. This is a toggle ability. It will cast on
+your raid leader, then raid2, raid3, raid4, on later clicks. Resets on alt-4
+(follow)
+
+4 -- turbo. Blow all dps cooldowns.
+
+alt-4 -- raid will focus the toon where your mouse is and immediately start
+following. ONLY WORKS IN GROUP OR RAID. Shaman will totemic recall. The camera
+will reset position. All toggle keys will reset.
+
+ctrl-4 -- Mount up. Dismount.
+
+5 -- AOE! Hellfire, Arcane explosion, volley, blood boil, fire nova,
+hurricane, ALL DROPPED ON THE STACK. Not targetable.
+
+Shift-5 -- (wotlk/tbc only) aux1. Simultaneously gets pressed with the 2 key.
+Put a good spell in here, noob. 
+
+6 -- Self heal, saving abilities. Healers heal themselves with a quick heal.
+Drop survival abilities. (Icebound, pain suppression, etc) I dunno, this is up
+to you to write. 
+
+Shift-6 -- (wotlk/tbc only) aux2. Simultaneously gets pressed with the 2 key.
+Put a good spell in here, noob.
+
+Shift-7 -- (wotlk/tbc only) aux2. Simultaneously gets pressed with the 3 or 5 key.
+Put a good spell in here that goes with multitarget, noob.
+
+8 -- Rez spell. Not targeted. Select target in window.
+
+0 -- PARTY UP! Crucial button! This invites everyone in your toonlist to
+party. YOU must change to raid on some expansions. Will fix this later.
+
+= -- Drink or food.
+
+F1-F10 -- Heal raid1-raid10
+
+F11 -- Switch Picture-in-picture for 2 boxing.
+
+F12 -- Make a line out of your raid. raid2 follows raid1. raid3 follows raid2,
+etc.
+
+Macros on the sidebar--
+a0-a10 -- Assist the window where your mouse is. You do not click these. These are automatically clicked. 
+
+focusme -- focus the leader. You do not click this. Automatically clicked on
+alt-4 (follow) only in the window where your mouse is.
+
+hearthstone -- tilde click this, or individually click. I don't know your
+life.
+
+sdm -- open the SuperDuperMacro interface. Tilde-click this.
+
+dance -- DANCE! tilde-click this.
+
+leave -- leave party. Individually click or tilde-click.
+
+reload -- Reload ui. tilde-click, individulally click, or just do ctrl-l and
+everyone will /reload
+
+
+
